@@ -1,0 +1,8 @@
+[09-Oct-2021 16:06:03 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.24. in /home/u1484491/public_html/aplikasiep3/vendor/composer/platform_check.php on line 24
+[09-Oct-2021 16:11:37 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/u1484491/public_html/aplikasiep3/vendor/psr/log/src/LoggerInterface.php on line 30
+[09-Oct-2021 16:11:37 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[09-Oct-2021 16:11:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/u1484491/public_html/aplikasiep3/vendor/psr/log/src/LoggerInterface.php on line 30
+[09-Oct-2021 16:11:38 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[09-Oct-2021 16:11:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/u1484491/public_html/aplikasiep3/vendor/psr/log/src/LoggerInterface.php on line 30
+[09-Oct-2021 16:11:40 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[09-Oct-2021 16:11:58 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.24. in /home/u1484491/public_html/aplikasiep3/vendor/composer/platform_check.php on line 24
